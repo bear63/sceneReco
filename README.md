@@ -1,10 +1,10 @@
 # sceneReco
 ctpn+crnn Scene character recognition
 
-#ctpn:
+ctpn:
    https://github.com/tianzhi0549/CTPN
-#crnn:
+crnn:
    https://github.com/bgshih/crnn
    
-#Run demo
+Run demo
   python demo.py
