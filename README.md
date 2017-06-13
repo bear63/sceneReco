@@ -12,7 +12,9 @@ crnn:
 model:
 
   https://pan.baidu.com/disk/home#list/path=%2F&vmode=list
+  
   set ctpn_trained_model.caffemodel to ./CTPN.models
+  
   set netCRNN63.pth to ./crnn/samples
    
 Run demo
