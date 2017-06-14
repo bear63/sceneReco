@@ -11,7 +11,8 @@ crnn:
 
 model:
 
-  https://pan.baidu.com/disk/home#list/path=%2F&vmode=list
+  https://pan.baidu.com/s/1i5OLwt3  
+  https://pan.baidu.com/s/1i4Hd9zv 
   
   set ctpn_trained_model.caffemodel to ./CTPN.models
   
