@@ -14,9 +14,9 @@ model:
   https://pan.baidu.com/s/1i5OLwt3  
   https://pan.baidu.com/s/1i4Hd9zv 
   
-  set ctpn_trained_model.caffemodel to ./CTPN.models
+  copy ctpn_trained_model.caffemodel to ./CTPN.models
   
-  set netCRNN63.pth to ./crnn/samples
+  copy netCRNN63.pth to ./crnn/samples
    
 Run demo
 
