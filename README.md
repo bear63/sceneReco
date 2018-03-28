@@ -12,8 +12,7 @@ ctpn+crnn Scene character recognition
 
 # model:
 
-  https://pan.baidu.com/s/1i5OLwt3  
-  https://pan.baidu.com/s/1i4Hd9zv 
+  https://pan.baidu.com/s/19outaxa-vRjPkWaDuTNUPg
   
   copy ctpn_trained_model.caffemodel to ./CTPN.models
   
